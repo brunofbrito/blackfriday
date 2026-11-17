@@ -1,0 +1,14 @@
+{
+  "name": "Tower",
+  "url": "https://www.git-tower.com/",
+  "description": "The most powerful Git client for Mac and Windows",
+  "category": "developer-tools",
+  "platforms": ["mac", "windows"],
+  "deal": "Up to 50% off: Pro 50%, Basic 30%, first year for new customers",
+  "pricing": "subscription",
+  "price": { "regular": 129, "sale": 64.5, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-23",
+  "endDate": "2026-12-06",
+  "icon": "https://www.git-tower.com/assets/img/icons/tower-app-icon.png"
+}
